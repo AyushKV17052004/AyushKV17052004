@@ -28,15 +28,8 @@
 ## 📊 Codolio Stats
 
 <p align="center">
-  <img src="https://codolio.com/api/profile/Ayush@Dare"/>
-</p>
-
----
-
-## 📊 GFG Stats
-
-<p align="center">
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=ayushverm3n24"/>
+  <img src="https://img.shields.io/badge/DSA%20Problems-1100%2B-success?style=for-the-badge&color=00C853"/>
+  <img src="https://img.shields.io/badge/CP%20Problems-1100%2B-blue?style=for-the-badge&color=2962FF"/>
 </p>
 
 ---
@@ -44,7 +37,6 @@
 ## 🏆 Coding Profiles
 
 - 🟡 LeetCode: https://leetcode.com/u/Ayush_2004_07/
-- 🟢 GFG: https://www.geeksforgeeks.org/profile/ayushverm3n24
 - 🔵 Codeforces: https://codeforces.com/profile/ayushverma998159
 - 🟣 CodeChef: https://www.codechef.com/users/dare_devil_7
 - 🟠 Codolio: https://codolio.com/profile/Ayush@Dare
@@ -54,9 +46,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushKV17052004&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushKV17052004&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKV17052004&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKV17052004&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
