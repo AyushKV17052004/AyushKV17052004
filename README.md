@@ -28,8 +28,8 @@
 ## 📊 Codolio Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DSA%20Problems-1100%2B-success?style=for-the-badge&color=00C853"/>
-  <img src="https://img.shields.io/badge/CP%20Problems-1100%2B-blue?style=for-the-badge&color=2962FF"/>
+  <img src="https://img.shields.io/badge/DSAandCP%20Problems-1100%2B-success?style=for-the-badge&color=00C853"/>
+
 </p>
 
 ---
