@@ -37,18 +37,9 @@
 ## 🏆 Coding Profiles
 
 - 🟡 LeetCode: https://leetcode.com/u/Ayush_2004_07/
+- 🟢 GeeksforGeeks: https://www.geeksforgeeks.org/profile/ayushverm3n24
 - 🔵 Codeforces: https://codeforces.com/profile/ayushverma998159
 - 🟣 CodeChef: https://www.codechef.com/users/dare_devil_7
 - 🟠 Codolio: https://codolio.com/profile/Ayush@Dare
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushKV17052004&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKV17052004&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
