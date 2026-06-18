@@ -13,6 +13,12 @@
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react"/>
   <img src="https://img.shields.io/badge/Express-black?logo=express"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80"/>
+  <img src="https://matplotlib.org/_static/images/logo2.svg" width="80"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="120"/>
 </p>
 
 ---
