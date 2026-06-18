@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Verma</h1>
 
 <p align="center">
-  🚀 MERN Stack Developer | 💻 DSA Enthusiast
+  🚀 MERN Stack Developer | 💻 DSA and ML Enthusiast
 </p>
 
 ---
